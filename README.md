@@ -1,2 +1,2 @@
 # Zomato_database
-This is small zomato database project
+This is small zomato database project using MySql
